@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcom to the new blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque elit ullamcorper dignissim cras tincidunt. Auctor eu augue ut lectus arcu bibendum at. Elit duis tristique sollicitudin nibh sit amet commodo. Nisl tincidunt eget nullam non nisi est sit amet facilisis. Justo donec enim diam vulputate ut pharetra sit. Neque convallis a cras semper auctor neque vitae tempus quam. Faucibus scelerisque eleifend donec pretium vulputate sapien nec sagittis. Sit amet est placerat in. Commodo elit at imperdiet dui accumsan. Scelerisque in dictum non consectetur a erat. Pretium lectus quam id leo in vitae turpis massa. Convallis aenean et tortor at risus viverra.",
+      "likes": 30
+    },
+    {
+      "id": 2,
+      "title": "How to be the Developer",
+      "body": "Dignissim suspendisse in est ante. Enim ut tellus elementum sagittis vitae. Urna molestie at elementum eu facilisis sed odio. Cras semper auctor neque vitae. Laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt. Quis viverra nibh cras pulvinar mattis nunc sed blandit. Porta non pulvinar neque laoreet suspendisse interdum. Scelerisque eleifend donec pretium vulputate sapien nec sagittis aliquam. Facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum. Vitae nunc sed velit dignissim sodales ut eu sem. ",
+      "likes": 15
+    },
+    {
+      "id": 3,
+      "title": "New JS Course coming soon!",
+      "body": "Eget velit aliquet sagittis id consectetur purus. Nisi est sit amet facilisis magna etiam. Diam donec adipiscing tristique risus nec feugiat in. Adipiscing at in tellus integer feugiat. Sapien nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur. Bibendum arcu vitae elementum curabitur. Amet nisl suscipit adipiscing bibendum est ultricies. Vitae et leo duis ut. Eget velit aliquet sagittis id consectetur purus ut. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus. Dis parturient montes nascetur ridiculus mus mauris vitae. Cursus in hac habitasse platea dictumst quisque sagittis purus. Euismod nisi porta lorem mollis. Nibh ipsum consequat nisl vel. Porttitor leo a diam sollicitudin tempor id eu nisl.",
+      "likes": 20
+    }
+  ],
+  "poll": [
+    {
+      "id": 1,
+      "question": "Do you prefer Vue or React?",
+      "answerA": "Vue",
+      "answerB": "React"
+    }
+  ]
+}
